@@ -1,6 +1,7 @@
+
 {
-  "version": "1.0.5",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/nachogl2016-a11y/quirk-updates/releases/download/v1.0.5/Quirk-1.0.5.apk",
-  "releaseNotes": "Corrección del actualizador de Quirk."
+  "version": "1.0.6",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/nachogl2016-a11y/quirk-updates/releases/download/v1.0.6/Quirk-1.0.6.apk",
+  "releaseNotes": "Shorts rediseñados, navegación simplificada y mejoras de estabilidad."
 }
